@@ -1,4 +1,4 @@
-The code was from one of the examples from the "TFT_eSPI" Library its "TFT_Meters" 
+// The code was from one of the examples from the "TFT_eSPI" Library its "TFT_Meters" 
 /*
   Example animated analogue meters using a ILI9341 TFT LCD screen
 
