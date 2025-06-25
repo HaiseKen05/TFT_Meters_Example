@@ -10,3 +10,5 @@ DC - 2,
 MOSI - 23,
 SCK - 18,
 LED - 3.3V
+
+More will be added soon
